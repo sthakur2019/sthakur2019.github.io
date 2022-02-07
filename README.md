@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+### Welcome to GitHub Pages
 
-### About myself
+## About myself
 
 Hi, My name is Sohan Thakur. I work as a Big Data Engineer for AWS.
 I am currently pursuing masters in Data Science from Bellevue University (Nebraska)
@@ -9,9 +9,9 @@ My experiecne in Data Science and Machine Learning is a mix of use cases that I 
 
 You can visit my github repository for my project details : [My repository](https://github.com/sthakur2019)
 
-### Work/Project details:
+## Work/Project details:
 
-# Few of the use cases that I have worked at are:
+### Few of the use cases that I have worked at are:
 - Customer churn prediction.
 - Recommendation system
 - Anomaly detection in time series data
@@ -20,7 +20,7 @@ You can visit my github repository for my project details : [My repository](http
 - TMDB Moview review prediction
 - Airline safety Analytics
 
-### My contact details:
+## My contact details:
 
 You can get in toch with me on [LinkedIn](http://www.linkedin.com/in/sohan-thakur-936b00106)
 
@@ -32,7 +32,9 @@ You can get in toch with me on [LinkedIn](http://www.linkedin.com/in/sohan-thaku
 
 
 
-###Appendix (for later use)
+
+
+### Appendix (for later use)
 
 
 
@@ -63,11 +65,3 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sthakur2019/sthakur2019.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
