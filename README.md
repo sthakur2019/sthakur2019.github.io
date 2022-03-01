@@ -13,18 +13,24 @@ You can visit my github repository for my project details : [My repository](http
 
 ### Few of the use cases that I have worked at are:
 
-### Customer churn prediction.
+## Customer churn prediction
   As part of this project my primary goal is to predict the event of cancellation for a customer. This is a typial classification problem with 2 classes: Active and   Cancel. Data contains major demographic details , financial health related attributes and some market and general informational attributes for each customer. The   major challenge in this use case is skewness in Class. We have almost 96% customer as Active and 4% as cancelled as a result finding out the accurate 4%     
   population with least false positive is a real challenge here. I have used various algorithms like Logistic regression, Decision tree classifier and Random forest   classifier for this use case. Random Forest regressor produced results with less false positive i.e best precision score.
   
-- Recommendation system
-- Anomaly detection in time series data
-- Median Home Price prediction
-- Analyze the impact of health infrastructure on disease severity for COVID 19.
-- TMDB Moview review prediction
-- Airline safety Analytics
+## Recommendation system
+  This use case is meant to address the use case where a buyer and supplier in a B2B domain needs to be connected. I need to reccomend the potential supplier for a   buyer and vice versa. There are various business logic around this use case that restrict recommending certain buyers to certain supplier. Thus, we need to come    up with an optimal recommendation under the given boundaries. The success of this tool will be measured by how much revenue did recommended pair of buyer and   supplier generated in next 3 months. The solution was done by calculating most similar buyer to a given buyer suing cosine similarity score and then recommending the suppliers of the similar buyers.
+  
+## Anomaly detection in time series data
 
-## My contact details:
+## Median Home Price prediction
+
+## Analyze the impact of health infrastructure on disease severity for COVID 19.
+
+## TMDB Moview review prediction
+
+## Airline safety Analytics
+
+### My contact details:
 
 You can get in toch with me on [LinkedIn](http://www.linkedin.com/in/sohan-thakur-936b00106)
 
