@@ -12,7 +12,11 @@ You can visit my github repository for my project details : [My repository](http
 ## Work/Project details:
 
 ### Few of the use cases that I have worked at are:
-- Customer churn prediction.
+
+### Customer churn prediction.
+  As part of this project my primary goal is to predict the event of cancellation for a customer. This is a typial classification problem with 2 classes: Active and   Cancel. Data contains major demographic details , financial health related attributes and some market and general informational attributes for each customer. The   major challenge in this use case is skewness in Class. We have almost 96% customer as Active and 4% as cancelled as a result finding out the accurate 4%     
+  population with least false positive is a real challenge here. I have used various algorithms like Logistic regression, Decision tree classifier and Random forest   classifier for this use case. Random Forest regressor produced results with less false positive i.e best precision score.
+  
 - Recommendation system
 - Anomaly detection in time series data
 - Median Home Price prediction
